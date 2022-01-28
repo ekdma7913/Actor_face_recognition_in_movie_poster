@@ -4,7 +4,7 @@
 
 파일이 너무 커서 원본 이미지를 링크 올려놓음.
 
-https://1drv.ms/u/s!ApDJ_IvCLrzeg55Kl3fIEusUZVGMXQ?e=utpbkl
+https://1drv.ms/u/s!ApDJ_IvCLrzeg55LbUVBPeiL2OnCsg?e=9WZjiS
 
 
 # 방법
