@@ -2,4 +2,4 @@
 
 notion 참조
 
-https://ekdma7913.notion.site/GRU-0cb530b2d56c4ce58282afd6afbbdaad
+https://ekdma7913.notion.site/CNN-cbbfc7a143614583a3953ab6418cb7c7
