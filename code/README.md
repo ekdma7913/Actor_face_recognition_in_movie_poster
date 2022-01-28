@@ -16,6 +16,8 @@
 
 ---
 
-학습이 끝난 구축된 모델들도 올려놓음.
+학습이 끝난 구축된 모델들도 링크 올려놓음.
 
-poster2.h5 ,yechan2.h5
+https://1drv.ms/u/s!ApDJ_IvCLrzeg55Mzia_QYdIkmbagA?e=eLfwc0
+
+poster2.h5 ,yechan2.h5 을 불러와서 모델을 사용하면 됨.
